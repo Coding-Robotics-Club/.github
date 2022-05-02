@@ -1,2 +1,2 @@
 # .github
-Default Community Health Files for the Microsoft organization on GitHub
+Default Community Files for the Coding & Robotics Club on GitHub
