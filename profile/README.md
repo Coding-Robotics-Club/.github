@@ -1,4 +1,5 @@
-![Coding & Robotics Club](https://github.com/Coding-Robotics-Club/.github/blob/main/images/poster.png) 
+<!-- ![Coding & Robotics Club](https://github.com/Coding-Robotics-Club/.github/blob/main/images/poster.png) -->
+![Coding & Robotics Club](https://user-images.githubusercontent.com/30349879/227756574-21de3caf-4cf3-41bf-95eb-e5da14efd634.png)
 
 ## Get Involved
 
